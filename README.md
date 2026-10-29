@@ -17,6 +17,10 @@ Windows 10 1809 이상 / Windows 11 x64용입니다.
 
 파일명이 달라도 JAR 내부 정보로 식별합니다. 설치 버전은 파일명에 적힌 숫자 대신 실제 JAR에서 읽습니다.
 
+서버 연결을 해제하려면 `내 서버` 옆 `목록에서 제거`를 누르세요. 서버 폴더와 JAR·설정·월드·백업은 유지하며, 같은 폴더를 다시 추가하면 기존 배포처 연결을 재사용합니다.
+
+프로그램 소개: https://sinseol.xyz/plugin-manager/
+
 ## 다운로드와 업데이트
 
 - Modrinth·Hangar·Spigot·공개 GitHub Releases를 지원합니다. ProtocolLib·LoneLibs의 알려진 공식 외부 배포를 GitHub로 연결합니다.
@@ -45,7 +49,7 @@ JAR을 실행하거나 서버 경로·설정·월드·JAR 내용을 업로드하
 Windows 설정의 `설치된 앱`에서 제거할 수 있습니다. 제거 후에도 서버 목록·출처 연결·다운로드 폴더 설정·플러그인 백업은 유지합니다. 재설치하면 그대로 사용할 수 있습니다.
 
 다운로드: https://github.com/SINSEOL1/SINSEOL-Plugin-Manager-Releases/releases/latest
-문의: https://sinseol.xyz/contact/
+문의·오류 신고: https://sinseol.xyz/contact/?project=plugin-manager&topic=bug
 
 소스 저장소는 비공개로 관리합니다. 공개 배포에는 원본 앱 소스·개발 문서를 포함하지 않습니다. 라이선스와 타사 라이브러리 정보는 `THIRD_PARTY_NOTICES.md` 및 `licenses`를 참조하세요.
 
